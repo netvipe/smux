@@ -30,8 +30,6 @@ Smux ( **S**imple **MU**ltiple**X**ing) is a multiplexing library for Golang. It
 5. Builtin fair queue traffic shaping.
 6. Per-stream sliding window to control congestion.(protocol version 2+).
 
-![smooth bandwidth curve](curve.jpg)
-
 ## Documentation
 
 For complete documentation, see the associated [Godoc](https://godoc.org/github.com/xtaci/smux).
